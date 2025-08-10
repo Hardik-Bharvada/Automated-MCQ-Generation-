@@ -1,5 +1,5 @@
-Automated MCQ Generator with AI-Powered Validation
-This project provides a powerful Python pipeline for automatically generating high-quality multiple-choice questions (MCQs) from text documents (.pdf, .txt). It leverages a sophisticated generator-evaluator architecture using Google's Gemini models to ensure that the generated questions are conceptually sound, relevant, and based strictly on the provided content.
+Automated MCQ Generator with AI-Powered Validation  
+This project provides a powerful Python pipeline for automatically generating high-quality multiple-choice questions (MCQs) from text documents (.pdf, .txt). It leverages a sophisticated generator-evaluator architecture using Google's Gemini models to ensure that the generated questions are conceptually sound, relevant, and based strictly on the provided content.  
 
 Key Features  
 Dual-AI Architecture: Uses one AI model to generate questions and a second, stricter AI model to evaluate and filter them, ensuring high quality.  
